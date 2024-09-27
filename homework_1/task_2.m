@@ -27,7 +27,7 @@ elseif Fahrenheit < 100
 end 
 
 %type these into terminal
-%git add homework_1/task_2.m
+%git add homework_1/
 %git status
 %git commit -m 'finished task 1'
 %git push origin main
