@@ -22,4 +22,12 @@ pi = 3.14;
 %this is the equation of area
 area = pi * radius^2;
 %this is the equation for circumference
-circumference= 2*pi * radius;   
+circumference= 2*pi * radius;
+
+%fileID = fopen('VaribleOperation.txt', 'w');
+%fprintf(fileID, '%f %f\n', area, circumference');
+%fclose(fileID);
+
+%git add homework_1/task_1.m
+%git commit -m 'finished task 1'
+%git push origin main
